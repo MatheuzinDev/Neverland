@@ -6,7 +6,6 @@ export default function Header() {
         <>
             <div className={styles.container}>
                 <Logo></Logo>
-
             </div>
         </>
     )

@@ -1,3 +1,5 @@
 .container {
-    
+    width: 100%;
+    background: linear-gradient(to right, #020008, #040014);
+    box-shadow: 0 0 20px rgba(0, 0, 40, 0.6);
 }
