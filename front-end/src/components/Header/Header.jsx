@@ -6,6 +6,12 @@ export default function Header() {
         <>
             <div className={styles.container}>
                 <Logo></Logo>
+
+                <ul className={styles.list}>
+                    <li>Membros</li>
+                    <li>História</li>
+                    <li>Galeria</li>
+                </ul>
             </div>
         </>
     )
